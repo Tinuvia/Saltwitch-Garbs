@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderGroups>
+    <Group name="CBBE">
+        <Member name="Saltwitch - Boethiah Cloth Scarf"/>
+        <Member name="Saltwitch - Boethiah Fur Scarf"/>
+        <Member name="Saltwitch - Boethiah Kilt"/>
+        <Member name="Saltwitch - Kyne Hide"/>
+        <Member name="Saltwitch - Kyne Hide Boots"/>
+        <Member name="Saltwitch - Kyne Hide Gauntlets"/>
+        <Member name="Saltwitch - Kyne Hide Gauntlets Beasts"/>
+        <Member name="Saltwitch - Kyne Leather"/>
+        <Member name="Saltwitch - Kyne Rugged"/>
+        <Member name="Saltwitch - Kyne Rugged Boots"/>
+        <Member name="Saltwitch - Kyne Rugged Gauntlets"/>
+        <Member name="Saltwitch - Kyne Rugged Gauntlets Beast"/>
+        <Member name="Saltwitch - MALE Kyne Rugged"/>
+        <Member name="Saltwitch - MALE Kyne Rugged Boots"/>
+        <Member name="Saltwitch - MALE Kyne Rugged Gauntlets"/>
+        <Member name="Saltwitch - MALE Kyne Rugged Gauntlets Beast"/>
+        <Member name="Saltwitch - Kyne Hide Boots Fur"/>
+        <Member name="Saltwitch - Kyne Hide Gauntlets Fur"/>
+        <Member name="Saltwitch - Kyne Hide Gauntlets Fur Beasts"/>
+        <Member name="Saltwitch - Temple Chain Mail"/>
+    </Group>
+    <Group name="Saltwitch">
+        <Member name="Saltwitch - Boethiah Cloth Scarf"/>
+        <Member name="Saltwitch - Boethiah Fur Scarf"/>
+        <Member name="Saltwitch - Boethiah Kilt"/>
+        <Member name="Saltwitch - Kyne Hide"/>
+        <Member name="Saltwitch - Kyne Hide Boots"/>
+        <Member name="Saltwitch - Kyne Hide Gauntlets"/>
+        <Member name="Saltwitch - Kyne Hide Gauntlets Beasts"/>
+        <Member name="Saltwitch - Kyne Leather"/>
+        <Member name="Saltwitch - Kyne Rugged"/>
+        <Member name="Saltwitch - Kyne Rugged Boots"/>
+        <Member name="Saltwitch - Kyne Rugged Gauntlets"/>
+        <Member name="Saltwitch - Kyne Rugged Gauntlets Beast"/>
+        <Member name="Saltwitch - MALE Kyne Rugged"/>
+        <Member name="Saltwitch - MALE Kyne Rugged Boots"/>
+        <Member name="Saltwitch - MALE Kyne Rugged Gauntlets"/>
+        <Member name="Saltwitch - MALE Kyne Rugged Gauntlets Beast"/>
+        <Member name="Saltwitch - Kyne Hide Boots Fur"/>
+        <Member name="Saltwitch - Kyne Hide Gauntlets Fur"/>
+        <Member name="Saltwitch - Kyne Hide Gauntlets Fur Beasts"/>
+        <Member name="Saltwitch - Temple Chain Mail"/>
+    </Group>
+</SliderGroups>

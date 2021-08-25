@@ -1,0 +1,177 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Saltwitch - MALE Kyne Rugged">
+        <DataFolder>Saltwitch Garbs MALE</DataFolder>
+        <SourceFile>A_KyneRuggedM.nif</SourceFile>
+        <OutputPath>meshes\Tinuvia\Saltwitch Garbs</OutputPath>
+        <OutputFile GenWeights="true">A_KyneRuggedM</OutputFile>
+        <Shape target="Claws">Claws</Shape>
+        <Shape target="FurPockets">FurPockets</Shape>
+        <Shape target="FurScarfTop">FurScarfTop</Shape>
+        <Shape target="LongScarfLeft">LongScarfLeft</Shape>
+        <Shape target="LongScarfRight">LongScarfRight</Shape>
+        <Shape target="MaleUnderwearBody:0_outfit" DataFolder="malebody">MaleUnderwearBody:0_outfit</Shape>
+        <Shape target="clothes">clothes</Shape>
+        <Slider name="MaleBodyVanilla" invert="false" small="0" big="0">
+            <Data name="MaleUnderwearBody:0_outfitMaleBodyVanilla" target="MaleUnderwearBody:0_outfit" local="true">A_KyneRuggedM.osd\MaleUnderwearBody:0_outfitMaleBodyVanilla</Data>
+            <Data name="clothesMaleBodyVanilla" target="clothes" local="true">A_KyneRuggedM.osd\clothesMaleBodyVanilla</Data>
+            <Data name="FurPocketsMaleBodyVanilla" target="FurPockets" local="true">A_KyneRuggedM.osd\FurPocketsMaleBodyVanilla</Data>
+            <Data name="ClawsMaleBodyVanilla" target="Claws" local="true">A_KyneRuggedM.osd\ClawsMaleBodyVanilla</Data>
+            <Data name="LongScarfLeftMaleBodyVanilla" target="LongScarfLeft" local="true">A_KyneRuggedM.osd\LongScarfLeftMaleBodyVanilla</Data>
+            <Data name="LongScarfRightMaleBodyVanilla" target="LongScarfRight" local="true">A_KyneRuggedM.osd\LongScarfRightMaleBodyVanilla</Data>
+            <Data name="FurScarfTopMaleBodyVanilla" target="FurScarfTop" local="true">A_KyneRuggedM.osd\FurScarfTopMaleBodyVanilla</Data>
+        </Slider>
+        <Slider name="Pecks" invert="false" small="0" big="0">
+            <Data name="MaleUnderwearBody:0_outfitPecks" target="MaleUnderwearBody:0_outfit" local="true">A_KyneRuggedM.osd\MaleUnderwearBody:0_outfitPecks</Data>
+            <Data name="clothesPecks" target="clothes" local="true">A_KyneRuggedM.osd\clothesPecks</Data>
+            <Data name="ClawsPecks" target="Claws" local="true">A_KyneRuggedM.osd\ClawsPecks</Data>
+            <Data name="LongScarfLeftPecks" target="LongScarfLeft" local="true">A_KyneRuggedM.osd\LongScarfLeftPecks</Data>
+            <Data name="LongScarfRightPecks" target="LongScarfRight" local="true">A_KyneRuggedM.osd\LongScarfRightPecks</Data>
+            <Data name="FurScarfTopPecks" target="FurScarfTop" local="true">A_KyneRuggedM.osd\FurScarfTopPecks</Data>
+        </Slider>
+        <Slider name="Shoulders" invert="false" small="0" big="0">
+            <Data name="MaleUnderwearBody:0_outfitShoulders" target="MaleUnderwearBody:0_outfit" local="true">A_KyneRuggedM.osd\MaleUnderwearBody:0_outfitShoulders</Data>
+            <Data name="clothesShoulders" target="clothes" local="true">A_KyneRuggedM.osd\clothesShoulders</Data>
+            <Data name="LongScarfRightShoulders" target="LongScarfRight" local="true">A_KyneRuggedM.osd\LongScarfRightShoulders</Data>
+            <Data name="FurScarfTopShoulders" target="FurScarfTop" local="true">A_KyneRuggedM.osd\FurScarfTopShoulders</Data>
+        </Slider>
+        <Slider name="biceps" invert="false" small="0" big="0">
+            <Data name="MaleUnderwearBody:0_outfitbiceps" target="MaleUnderwearBody:0_outfit" local="true">A_KyneRuggedM.osd\MaleUnderwearBody:0_outfitbiceps</Data>
+            <Data name="clothesbiceps" target="clothes" local="true">A_KyneRuggedM.osd\clothesbiceps</Data>
+            <Data name="LongScarfRightbiceps" target="LongScarfRight" local="true">A_KyneRuggedM.osd\LongScarfRightbiceps</Data>
+            <Data name="FurScarfTopbiceps" target="FurScarfTop" local="true">A_KyneRuggedM.osd\FurScarfTopbiceps</Data>
+        </Slider>
+        <Slider name="Forearms" invert="false" small="0" big="0">
+            <Data name="MaleUnderwearBody:0_outfitForearms" target="MaleUnderwearBody:0_outfit" local="true">A_KyneRuggedM.osd\MaleUnderwearBody:0_outfitForearms</Data>
+            <Data name="clothesForearms" target="clothes" local="true">A_KyneRuggedM.osd\clothesForearms</Data>
+            <Data name="FurPocketsForearms" target="FurPockets" local="true">A_KyneRuggedM.osd\FurPocketsForearms</Data>
+            <Data name="LongScarfLeftForearms" target="LongScarfLeft" local="true">A_KyneRuggedM.osd\LongScarfLeftForearms</Data>
+            <Data name="LongScarfRightForearms" target="LongScarfRight" local="true">A_KyneRuggedM.osd\LongScarfRightForearms</Data>
+        </Slider>
+        <Slider name="Abs" invert="false" small="0" big="0">
+            <Data name="MaleUnderwearBody:0_outfitAbs" target="MaleUnderwearBody:0_outfit" local="true">A_KyneRuggedM.osd\MaleUnderwearBody:0_outfitAbs</Data>
+            <Data name="clothesAbs" target="clothes" local="true">A_KyneRuggedM.osd\clothesAbs</Data>
+            <Data name="FurPocketsAbs" target="FurPockets" local="true">A_KyneRuggedM.osd\FurPocketsAbs</Data>
+            <Data name="ClawsAbs" target="Claws" local="true">A_KyneRuggedM.osd\ClawsAbs</Data>
+            <Data name="LongScarfLeftAbs" target="LongScarfLeft" local="true">A_KyneRuggedM.osd\LongScarfLeftAbs</Data>
+            <Data name="LongScarfRightAbs" target="LongScarfRight" local="true">A_KyneRuggedM.osd\LongScarfRightAbs</Data>
+        </Slider>
+        <Slider name="Thighs" invert="false" small="0" big="0">
+            <Data name="MaleUnderwearBody:0_outfitThighs" target="MaleUnderwearBody:0_outfit" local="true">A_KyneRuggedM.osd\MaleUnderwearBody:0_outfitThighs</Data>
+            <Data name="clothesThighs" target="clothes" local="true">A_KyneRuggedM.osd\clothesThighs</Data>
+            <Data name="FurPocketsThighs" target="FurPockets" local="true">A_KyneRuggedM.osd\FurPocketsThighs</Data>
+        </Slider>
+        <Slider name="Buttocks" invert="false" small="0" big="0">
+            <Data name="MaleUnderwearBody:0_outfitButtocks" target="MaleUnderwearBody:0_outfit" local="true">A_KyneRuggedM.osd\MaleUnderwearBody:0_outfitButtocks</Data>
+            <Data name="clothesButtocks" target="clothes" local="true">A_KyneRuggedM.osd\clothesButtocks</Data>
+            <Data name="FurPocketsButtocks" target="FurPockets" local="true">A_KyneRuggedM.osd\FurPocketsButtocks</Data>
+            <Data name="LongScarfLeftButtocks" target="LongScarfLeft" local="true">A_KyneRuggedM.osd\LongScarfLeftButtocks</Data>
+            <Data name="LongScarfRightButtocks" target="LongScarfRight" local="true">A_KyneRuggedM.osd\LongScarfRightButtocks</Data>
+        </Slider>
+        <Slider name="traps" invert="false" small="0" big="0">
+            <Data name="MaleUnderwearBody:0_outfittraps" target="MaleUnderwearBody:0_outfit" local="true">A_KyneRuggedM.osd\MaleUnderwearBody:0_outfittraps</Data>
+            <Data name="clothestraps" target="clothes" local="true">A_KyneRuggedM.osd\clothestraps</Data>
+            <Data name="FurScarfToptraps" target="FurScarfTop" local="true">A_KyneRuggedM.osd\FurScarfToptraps</Data>
+        </Slider>
+        <Slider name="Calves" invert="false" small="0" big="0">
+            <Data name="MaleUnderwearBody:0_outfitCalves" target="MaleUnderwearBody:0_outfit" local="true">A_KyneRuggedM.osd\MaleUnderwearBody:0_outfitCalves</Data>
+            <Data name="clothesCalves" target="clothes" local="true">A_KyneRuggedM.osd\clothesCalves</Data>
+        </Slider>
+        <Slider name="ribs" invert="false" small="0" big="0">
+            <Data name="MaleUnderwearBody:0_outfitribs" target="MaleUnderwearBody:0_outfit" local="true">A_KyneRuggedM.osd\MaleUnderwearBody:0_outfitribs</Data>
+            <Data name="clothesribs" target="clothes" local="true">A_KyneRuggedM.osd\clothesribs</Data>
+            <Data name="FurPocketsribs" target="FurPockets" local="true">A_KyneRuggedM.osd\FurPocketsribs</Data>
+            <Data name="Clawsribs" target="Claws" local="true">A_KyneRuggedM.osd\Clawsribs</Data>
+            <Data name="LongScarfLeftribs" target="LongScarfLeft" local="true">A_KyneRuggedM.osd\LongScarfLeftribs</Data>
+            <Data name="LongScarfRightribs" target="LongScarfRight" local="true">A_KyneRuggedM.osd\LongScarfRightribs</Data>
+            <Data name="FurScarfTopribs" target="FurScarfTop" local="true">A_KyneRuggedM.osd\FurScarfTopribs</Data>
+        </Slider>
+        <Slider name="Back" invert="false" small="0" big="0">
+            <Data name="MaleUnderwearBody:0_outfitBack" target="MaleUnderwearBody:0_outfit" local="true">A_KyneRuggedM.osd\MaleUnderwearBody:0_outfitBack</Data>
+            <Data name="clothesBack" target="clothes" local="true">A_KyneRuggedM.osd\clothesBack</Data>
+            <Data name="LongScarfLeftBack" target="LongScarfLeft" local="true">A_KyneRuggedM.osd\LongScarfLeftBack</Data>
+            <Data name="LongScarfRightBack" target="LongScarfRight" local="true">A_KyneRuggedM.osd\LongScarfRightBack</Data>
+            <Data name="FurScarfTopBack" target="FurScarfTop" local="true">A_KyneRuggedM.osd\FurScarfTopBack</Data>
+        </Slider>
+        <Slider name="Fat" invert="false" small="0" big="0">
+            <Data name="MaleUnderwearBody:0_outfitFat" target="MaleUnderwearBody:0_outfit" local="true">A_KyneRuggedM.osd\MaleUnderwearBody:0_outfitFat</Data>
+            <Data name="clothesFat" target="clothes" local="true">A_KyneRuggedM.osd\clothesFat</Data>
+            <Data name="FurPocketsFat" target="FurPockets" local="true">A_KyneRuggedM.osd\FurPocketsFat</Data>
+            <Data name="ClawsFat" target="Claws" local="true">A_KyneRuggedM.osd\ClawsFat</Data>
+            <Data name="LongScarfLeftFat" target="LongScarfLeft" local="true">A_KyneRuggedM.osd\LongScarfLeftFat</Data>
+            <Data name="LongScarfRightFat" target="LongScarfRight" local="true">A_KyneRuggedM.osd\LongScarfRightFat</Data>
+            <Data name="FurScarfTopFat" target="FurScarfTop" local="true">A_KyneRuggedM.osd\FurScarfTopFat</Data>
+        </Slider>
+        <Slider name="BodyZap" invert="false" small="100" big="100" hidden="true" zap="true">
+            <Data name="MaleUnderwearBody:0_outfitBodyZap" target="MaleUnderwearBody:0_outfit" local="true">A_KyneRuggedM.osd\MaleUnderwearBody:0_outfitBodyZap</Data>
+        </Slider>
+    </SliderSet>
+    <SliderSet name="Saltwitch - MALE Kyne Rugged Boots">
+        <DataFolder>Saltwitch Garbs MALE</DataFolder>
+        <SourceFile>B_KyneRuggedM.nif</SourceFile>
+        <OutputPath>meshes\Tinuvia\Saltwitch Garbs</OutputPath>
+        <OutputFile GenWeights="true">B_KyneRuggedM</OutputFile>
+        <Shape target="Shoes">Shoes</Shape>
+        <Slider name="MaleBodyVanilla" invert="false" small="0" big="0">
+            <Data name="ShoesMaleBodyVanilla" target="Shoes" local="true">B_KyneRuggedM.osd\ShoesMaleBodyVanilla</Data>
+        </Slider>
+        <Slider name="Calves" invert="false" small="0" big="0">
+            <Data name="ShoesCalves" target="Shoes" local="true">B_KyneRuggedM.osd\ShoesCalves</Data>
+        </Slider>
+        <Slider name="Fat" invert="false" small="0" big="0">
+            <Data name="ShoesFat" target="Shoes" local="true">B_KyneRuggedM.osd\ShoesFat</Data>
+        </Slider>
+    </SliderSet>
+    <SliderSet name="Saltwitch - MALE Kyne Rugged Gauntlets">
+        <DataFolder>Saltwitch Garbs MALE</DataFolder>
+        <SourceFile>G_KyneRuggedM.nif</SourceFile>
+        <OutputPath>meshes\Tinuvia\Saltwitch Garbs</OutputPath>
+        <OutputFile GenWeights="true">G_KyneRuggedM</OutputFile>
+        <Shape target="Gauntlets">Gauntlets</Shape>
+        <Shape target="HandMaleBig3rd" DataFolder="Adventurer&apos;s Outfits MALE">HandMaleBig3rd</Shape>
+        <Slider name="MaleBodyVanilla" invert="false" small="0" big="0">
+            <Data name="GauntletsMaleBodyVanilla" target="Gauntlets" local="true">G_KyneRuggedM.osd\GauntletsMaleBodyVanilla</Data>
+        </Slider>
+        <Slider name="Shoulders" invert="false" small="0" big="0">
+            <Data name="GauntletsShoulders" target="Gauntlets" local="true">G_KyneRuggedM.osd\GauntletsShoulders</Data>
+        </Slider>
+        <Slider name="biceps" invert="false" small="0" big="0">
+            <Data name="Gauntletsbiceps" target="Gauntlets" local="true">G_KyneRuggedM.osd\Gauntletsbiceps</Data>
+        </Slider>
+        <Slider name="Forearms" invert="false" small="0" big="0">
+            <Data name="GauntletsForearms" target="Gauntlets" local="true">G_KyneRuggedM.osd\GauntletsForearms</Data>
+        </Slider>
+        <Slider name="ribs" invert="false" small="0" big="0">
+            <Data name="Gauntletsribs" target="Gauntlets" local="true">G_KyneRuggedM.osd\Gauntletsribs</Data>
+        </Slider>
+        <Slider name="Fat" invert="false" small="0" big="0">
+            <Data name="GauntletsFat" target="Gauntlets" local="true">G_KyneRuggedM.osd\GauntletsFat</Data>
+        </Slider>
+    </SliderSet>
+    <SliderSet name="Saltwitch - MALE Kyne Rugged Gauntlets Beast">
+        <DataFolder>Saltwitch Garbs MALE</DataFolder>
+        <SourceFile>G_KyneRuggedBeastM.nif</SourceFile>
+        <OutputPath>meshes\Tinuvia\Saltwitch Garbs</OutputPath>
+        <OutputFile GenWeights="true">G_KyneRuggedBeastM</OutputFile>
+        <Shape target="Gauntlets">Gauntlets</Shape>
+        <Shape target="HandMaleBigArgonian3rd" DataFolder="Adventurer&apos;s Outfits MALE">HandMaleBigArgonian3rd</Shape>
+        <Slider name="MaleBodyVanilla" invert="false" small="0" big="0">
+            <Data name="GauntletsMaleBodyVanilla" target="Gauntlets" local="true">G_KyneRuggedBeastM.osd\GauntletsMaleBodyVanilla</Data>
+        </Slider>
+        <Slider name="Shoulders" invert="false" small="0" big="0">
+            <Data name="GauntletsShoulders" target="Gauntlets" local="true">G_KyneRuggedBeastM.osd\GauntletsShoulders</Data>
+        </Slider>
+        <Slider name="biceps" invert="false" small="0" big="0">
+            <Data name="Gauntletsbiceps" target="Gauntlets" local="true">G_KyneRuggedBeastM.osd\Gauntletsbiceps</Data>
+        </Slider>
+        <Slider name="Forearms" invert="false" small="0" big="0">
+            <Data name="GauntletsForearms" target="Gauntlets" local="true">G_KyneRuggedBeastM.osd\GauntletsForearms</Data>
+        </Slider>
+        <Slider name="ribs" invert="false" small="0" big="0">
+            <Data name="Gauntletsribs" target="Gauntlets" local="true">G_KyneRuggedBeastM.osd\Gauntletsribs</Data>
+        </Slider>
+        <Slider name="Fat" invert="false" small="0" big="0">
+            <Data name="GauntletsFat" target="Gauntlets" local="true">G_KyneRuggedBeastM.osd\GauntletsFat</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>
