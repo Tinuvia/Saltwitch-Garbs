@@ -1,2 +1,25 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<SliderGroups/>
+<SliderGroups>
+    <Group name="Saltwitch MALE">
+        <Member name="Saltwitch - MALE Boethiah Cloth Scarf"/>
+        <Member name="Saltwitch - MALE Boethiah Fur Scarf"/>
+        <Member name="Saltwitch - MALE Boethiah Kilt"/>
+        <Member name="Saltwitch - MALE Chainmail"/>
+        <Member name="Saltwitch - MALE Cloak Long"/>
+        <Member name="Saltwitch - MALE Kyne Hide"/>
+        <Member name="Saltwitch - MALE Kyne Hide Boots"/>
+        <Member name="Saltwitch - MALE Kyne Hide Boots Fur "/>
+        <Member name="Saltwitch - MALE Kyne Hide Gauntlets"/>
+        <Member name="Saltwitch - MALE Kyne Hide Gauntlets Beasts"/>
+        <Member name="Saltwitch - MALE Kyne Hide Gauntlets Fur"/>
+        <Member name="Saltwitch - MALE Kyne Hide Gauntlets Fur Beasts"/>
+        <Member name="Saltwitch - MALE Kyne Leather"/>
+        <Member name="Saltwitch - MALE Kyne Leather Boots"/>
+        <Member name="Saltwitch - MALE Kyne Leather Gauntlets Beasts"/>
+        <Member name="Saltwitch - MALE Kyne Rugged"/>
+        <Member name="Saltwitch - MALE Kyne Rugged Boots"/>
+        <Member name="Saltwitch - MALE Kyne Rugged Gauntlets"/>
+        <Member name="Saltwitch - MALE Kyne Rugged Gauntlets Beast"/>
+        <Member name="Saltwitch - MALE Nelkir&apos;s Demise"/>
+    </Group>
+</SliderGroups>

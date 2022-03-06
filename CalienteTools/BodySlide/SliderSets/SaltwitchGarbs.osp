@@ -713,6 +713,7 @@
         <Shape target="Scb">Scb</Shape>
         <Shape target="clothes">clothes</Shape>
         <Shape target="clothes_underwear">clothes_underwear</Shape>
+        <Shape target="robes">robes</Shape>
         <Slider name="AnkleSize" invert="false" small="100" big="0">
             <Data name="CBBEAnkleSize" target="CBBE" local="true">A_KyneLeatherF.osd\CBBEAnkleSize</Data>
             <Data name="PantsAnkleSize" target="Pants" local="true">A_KyneLeatherF.osd\PantsAnkleSize</Data>
@@ -724,6 +725,7 @@
             <Data name="PocketAndSleevesAppleCheeks" target="PocketAndSleeves" local="true">A_KyneLeatherF.osd\PocketAndSleevesAppleCheeks</Data>
             <Data name="HideBustierAppleCheeks" target="HideBustier" local="true">A_KyneLeatherF.osd\HideBustierAppleCheeks</Data>
             <Data name="PantsAppleCheeks" target="Pants" local="true">A_KyneLeatherF.osd\PantsAppleCheeks</Data>
+            <Data name="robesAppleCheeks" target="robes" local="true">A_KyneLeatherF.osd\robesAppleCheeks</Data>
         </Slider>
         <Slider name="AreolaSize" invert="false" small="0" big="0" uv="true">
             <Data name="CBBEAreolaSize" target="CBBE" local="true">A_KyneLeatherF.osd\CBBEAreolaSize</Data>
@@ -743,6 +745,7 @@
             <Data name="PocketAndSleevesBack" target="PocketAndSleeves" local="true">A_KyneLeatherF.osd\PocketAndSleevesBack</Data>
             <Data name="HideBustierBack" target="HideBustier" local="true">A_KyneLeatherF.osd\HideBustierBack</Data>
             <Data name="PantsBack" target="Pants" local="true">A_KyneLeatherF.osd\PantsBack</Data>
+            <Data name="robesBack" target="robes" local="true">A_KyneLeatherF.osd\robesBack</Data>
         </Slider>
         <Slider name="BackArch" invert="false" small="0" big="0">
             <Data name="CBBEBackArch" target="CBBE" local="true">A_KyneLeatherF.osd\CBBEBackArch</Data>
@@ -751,6 +754,7 @@
             <Data name="PocketAndSleevesBackArch" target="PocketAndSleeves" local="true">A_KyneLeatherF.osd\PocketAndSleevesBackArch</Data>
             <Data name="HideBustierBackArch" target="HideBustier" local="true">A_KyneLeatherF.osd\HideBustierBackArch</Data>
             <Data name="PantsBackArch" target="Pants" local="true">A_KyneLeatherF.osd\PantsBackArch</Data>
+            <Data name="robesBackArch" target="robes" local="true">A_KyneLeatherF.osd\robesBackArch</Data>
         </Slider>
         <Slider name="Belly" invert="false" small="0" big="0">
             <Data name="CBBEBelly" target="CBBE" local="true">A_KyneLeatherF.osd\CBBEBelly</Data>
@@ -758,6 +762,7 @@
             <Data name="PocketAndSleevesBelly" target="PocketAndSleeves" local="true">A_KyneLeatherF.osd\PocketAndSleevesBelly</Data>
             <Data name="HideBustierBelly" target="HideBustier" local="true">A_KyneLeatherF.osd\HideBustierBelly</Data>
             <Data name="PantsBelly" target="Pants" local="true">A_KyneLeatherF.osd\PantsBelly</Data>
+            <Data name="robesBelly" target="robes" local="true">A_KyneLeatherF.osd\robesBelly</Data>
         </Slider>
         <Slider name="BigBelly" invert="false" small="0" big="0">
             <Data name="CBBEBigBelly" target="CBBE" local="true">A_KyneLeatherF.osd\CBBEBigBelly</Data>
@@ -766,6 +771,7 @@
             <Data name="PocketAndSleevesBigBelly" target="PocketAndSleeves" local="true">A_KyneLeatherF.osd\PocketAndSleevesBigBelly</Data>
             <Data name="HideBustierBigBelly" target="HideBustier" local="true">A_KyneLeatherF.osd\HideBustierBigBelly</Data>
             <Data name="PantsBigBelly" target="Pants" local="true">A_KyneLeatherF.osd\PantsBigBelly</Data>
+            <Data name="robesBigBelly" target="robes" local="true">A_KyneLeatherF.osd\robesBigBelly</Data>
         </Slider>
         <Slider name="BigButt" invert="false" small="0" big="0">
             <Data name="CBBEBigButt" target="CBBE" local="true">A_KyneLeatherF.osd\CBBEBigButt</Data>
@@ -773,6 +779,7 @@
             <Data name="PocketAndSleevesBigButt" target="PocketAndSleeves" local="true">A_KyneLeatherF.osd\PocketAndSleevesBigButt</Data>
             <Data name="HideBustierBigButt" target="HideBustier" local="true">A_KyneLeatherF.osd\HideBustierBigButt</Data>
             <Data name="PantsBigButt" target="Pants" local="true">A_KyneLeatherF.osd\PantsBigButt</Data>
+            <Data name="robesBigButt" target="robes" local="true">A_KyneLeatherF.osd\robesBigButt</Data>
         </Slider>
         <Slider name="BigTorso" invert="false" small="0" big="0">
             <Data name="CBBEBigTorso" target="CBBE" local="true">A_KyneLeatherF.osd\CBBEBigTorso</Data>
@@ -781,6 +788,7 @@
             <Data name="PocketAndSleevesBigTorso" target="PocketAndSleeves" local="true">A_KyneLeatherF.osd\PocketAndSleevesBigTorso</Data>
             <Data name="HideBustierBigTorso" target="HideBustier" local="true">A_KyneLeatherF.osd\HideBustierBigTorso</Data>
             <Data name="PantsBigTorso" target="Pants" local="true">A_KyneLeatherF.osd\PantsBigTorso</Data>
+            <Data name="robesBigTorso" target="robes" local="true">A_KyneLeatherF.osd\robesBigTorso</Data>
         </Slider>
         <Slider name="BreastCenter" invert="false" small="0" big="0">
             <Data name="CBBEBreastCenter" target="CBBE" local="true">A_KyneLeatherF.osd\CBBEBreastCenter</Data>
@@ -834,6 +842,7 @@
             <Data name="PocketAndSleevesBreastHeight" target="PocketAndSleeves" local="true">A_KyneLeatherF.osd\PocketAndSleevesBreastHeight</Data>
             <Data name="HideBustierBreastHeight" target="HideBustier" local="true">A_KyneLeatherF.osd\HideBustierBreastHeight</Data>
             <Data name="PantsBreastHeight" target="Pants" local="true">A_KyneLeatherF.osd\PantsBreastHeight</Data>
+            <Data name="robesBreastHeight" target="robes" local="true">A_KyneLeatherF.osd\robesBreastHeight</Data>
         </Slider>
         <Slider name="BreastPerkiness" invert="false" small="0" big="0">
             <Data name="CBBEBreastPerkiness" target="CBBE" local="true">A_KyneLeatherF.osd\CBBEBreastPerkiness</Data>
@@ -874,6 +883,7 @@
             <Data name="PocketAndSleevesBreastsNewSH" target="PocketAndSleeves" local="true">A_KyneLeatherF.osd\PocketAndSleevesBreastsNewSH</Data>
             <Data name="HideBustierBreastsNewSH" target="HideBustier" local="true">A_KyneLeatherF.osd\HideBustierBreastsNewSH</Data>
             <Data name="PantsBreastsNewSH" target="Pants" local="true">A_KyneLeatherF.osd\PantsBreastsNewSH</Data>
+            <Data name="robesBreastsNewSH" target="robes" local="true">A_KyneLeatherF.osd\robesBreastsNewSH</Data>
         </Slider>
         <Slider name="BreastsNewSHSymmetry" invert="false" small="0" big="0">
             <Data name="CBBEBreastsNewSHSymmetry" target="CBBE" local="true">A_KyneLeatherF.osd\CBBEBreastsNewSHSymmetry</Data>
@@ -890,6 +900,7 @@
             <Data name="PocketAndSleevesBreastsSmall" target="PocketAndSleeves" local="true">A_KyneLeatherF.osd\PocketAndSleevesBreastsSmall</Data>
             <Data name="HideBustierBreastsSmall" target="HideBustier" local="true">A_KyneLeatherF.osd\HideBustierBreastsSmall</Data>
             <Data name="PantsBreastsSmall" target="Pants" local="true">A_KyneLeatherF.osd\PantsBreastsSmall</Data>
+            <Data name="robesBreastsSmall" target="robes" local="true">A_KyneLeatherF.osd\robesBreastsSmall</Data>
         </Slider>
         <Slider name="BreastsSmall2" invert="false" small="0" big="0">
             <Data name="CBBEBreastsSmall2" target="CBBE" local="true">A_KyneLeatherF.osd\CBBEBreastsSmall2</Data>
@@ -898,6 +909,7 @@
             <Data name="PocketAndSleevesBreastsSmall2" target="PocketAndSleeves" local="true">A_KyneLeatherF.osd\PocketAndSleevesBreastsSmall2</Data>
             <Data name="HideBustierBreastsSmall2" target="HideBustier" local="true">A_KyneLeatherF.osd\HideBustierBreastsSmall2</Data>
             <Data name="PantsBreastsSmall2" target="Pants" local="true">A_KyneLeatherF.osd\PantsBreastsSmall2</Data>
+            <Data name="robesBreastsSmall2" target="robes" local="true">A_KyneLeatherF.osd\robesBreastsSmall2</Data>
         </Slider>
         <Slider name="BreastsTogether" invert="false" small="0" big="0">
             <Data name="CBBEBreastsTogether" target="CBBE" local="true">A_KyneLeatherF.osd\CBBEBreastsTogether</Data>
@@ -929,6 +941,7 @@
             <Data name="PocketAndSleevesButt" target="PocketAndSleeves" local="true">A_KyneLeatherF.osd\PocketAndSleevesButt</Data>
             <Data name="HideBustierButt" target="HideBustier" local="true">A_KyneLeatherF.osd\HideBustierButt</Data>
             <Data name="PantsButt" target="Pants" local="true">A_KyneLeatherF.osd\PantsButt</Data>
+            <Data name="robesButt" target="robes" local="true">A_KyneLeatherF.osd\robesButt</Data>
         </Slider>
         <Slider name="ButtClassic" invert="false" small="0" big="0">
             <Data name="CBBEButtClassic" target="CBBE" local="true">A_KyneLeatherF.osd\CBBEButtClassic</Data>
@@ -937,6 +950,7 @@
             <Data name="PocketAndSleevesButtClassic" target="PocketAndSleeves" local="true">A_KyneLeatherF.osd\PocketAndSleevesButtClassic</Data>
             <Data name="HideBustierButtClassic" target="HideBustier" local="true">A_KyneLeatherF.osd\HideBustierButtClassic</Data>
             <Data name="PantsButtClassic" target="Pants" local="true">A_KyneLeatherF.osd\PantsButtClassic</Data>
+            <Data name="robesButtClassic" target="robes" local="true">A_KyneLeatherF.osd\robesButtClassic</Data>
         </Slider>
         <Slider name="ButtCrack" invert="false" small="0" big="0">
             <Data name="CBBEButtCrack" target="CBBE" local="true">A_KyneLeatherF.osd\CBBEButtCrack</Data>
@@ -944,6 +958,7 @@
             <Data name="PocketAndSleevesButtCrack" target="PocketAndSleeves" local="true">A_KyneLeatherF.osd\PocketAndSleevesButtCrack</Data>
             <Data name="HideBustierButtCrack" target="HideBustier" local="true">A_KyneLeatherF.osd\HideBustierButtCrack</Data>
             <Data name="PantsButtCrack" target="Pants" local="true">A_KyneLeatherF.osd\PantsButtCrack</Data>
+            <Data name="robesButtCrack" target="robes" local="true">A_KyneLeatherF.osd\robesButtCrack</Data>
         </Slider>
         <Slider name="ButtShape2" invert="false" small="0" big="0">
             <Data name="CBBEButtShape2" target="CBBE" local="true">A_KyneLeatherF.osd\CBBEButtShape2</Data>
@@ -952,6 +967,7 @@
             <Data name="PocketAndSleevesButtShape2" target="PocketAndSleeves" local="true">A_KyneLeatherF.osd\PocketAndSleevesButtShape2</Data>
             <Data name="HideBustierButtShape2" target="HideBustier" local="true">A_KyneLeatherF.osd\HideBustierButtShape2</Data>
             <Data name="PantsButtShape2" target="Pants" local="true">A_KyneLeatherF.osd\PantsButtShape2</Data>
+            <Data name="robesButtShape2" target="robes" local="true">A_KyneLeatherF.osd\robesButtShape2</Data>
         </Slider>
         <Slider name="ButtSmall" invert="false" small="0" big="0">
             <Data name="CBBEButtSmall" target="CBBE" local="true">A_KyneLeatherF.osd\CBBEButtSmall</Data>
@@ -960,14 +976,17 @@
             <Data name="PocketAndSleevesButtSmall" target="PocketAndSleeves" local="true">A_KyneLeatherF.osd\PocketAndSleevesButtSmall</Data>
             <Data name="HideBustierButtSmall" target="HideBustier" local="true">A_KyneLeatherF.osd\HideBustierButtSmall</Data>
             <Data name="PantsButtSmall" target="Pants" local="true">A_KyneLeatherF.osd\PantsButtSmall</Data>
+            <Data name="robesButtSmall" target="robes" local="true">A_KyneLeatherF.osd\robesButtSmall</Data>
         </Slider>
         <Slider name="CalfSize" invert="false" small="0" big="0">
             <Data name="CBBECalfSize" target="CBBE" local="true">A_KyneLeatherF.osd\CBBECalfSize</Data>
             <Data name="PantsCalfSize" target="Pants" local="true">A_KyneLeatherF.osd\PantsCalfSize</Data>
+            <Data name="robesCalfSize" target="robes" local="true">A_KyneLeatherF.osd\robesCalfSize</Data>
         </Slider>
         <Slider name="CalfSmooth" invert="false" small="0" big="0">
             <Data name="CBBECalfSmooth" target="CBBE" local="true">A_KyneLeatherF.osd\CBBECalfSmooth</Data>
             <Data name="PantsCalfSmooth" target="Pants" local="true">A_KyneLeatherF.osd\PantsCalfSmooth</Data>
+            <Data name="robesCalfSmooth" target="robes" local="true">A_KyneLeatherF.osd\robesCalfSmooth</Data>
         </Slider>
         <Slider name="ChestDepth" invert="false" small="0" big="0">
             <Data name="CBBEChestDepth" target="CBBE" local="true">A_KyneLeatherF.osd\CBBEChestDepth</Data>
@@ -976,6 +995,7 @@
             <Data name="PocketAndSleevesChestDepth" target="PocketAndSleeves" local="true">A_KyneLeatherF.osd\PocketAndSleevesChestDepth</Data>
             <Data name="HideBustierChestDepth" target="HideBustier" local="true">A_KyneLeatherF.osd\HideBustierChestDepth</Data>
             <Data name="PantsChestDepth" target="Pants" local="true">A_KyneLeatherF.osd\PantsChestDepth</Data>
+            <Data name="robesChestDepth" target="robes" local="true">A_KyneLeatherF.osd\robesChestDepth</Data>
         </Slider>
         <Slider name="ChestWidth" invert="false" small="0" big="0">
             <Data name="CBBEChestWidth" target="CBBE" local="true">A_KyneLeatherF.osd\CBBEChestWidth</Data>
@@ -984,6 +1004,7 @@
             <Data name="PocketAndSleevesChestWidth" target="PocketAndSleeves" local="true">A_KyneLeatherF.osd\PocketAndSleevesChestWidth</Data>
             <Data name="HideBustierChestWidth" target="HideBustier" local="true">A_KyneLeatherF.osd\HideBustierChestWidth</Data>
             <Data name="PantsChestWidth" target="Pants" local="true">A_KyneLeatherF.osd\PantsChestWidth</Data>
+            <Data name="robesChestWidth" target="robes" local="true">A_KyneLeatherF.osd\robesChestWidth</Data>
         </Slider>
         <Slider name="ChubbyArms" invert="false" small="0" big="0">
             <Data name="CBBEChubbyArms" target="CBBE" local="true">A_KyneLeatherF.osd\CBBEChubbyArms</Data>
@@ -1000,6 +1021,7 @@
             <Data name="PocketAndSleevesChubbyButt" target="PocketAndSleeves" local="true">A_KyneLeatherF.osd\PocketAndSleevesChubbyButt</Data>
             <Data name="HideBustierChubbyButt" target="HideBustier" local="true">A_KyneLeatherF.osd\HideBustierChubbyButt</Data>
             <Data name="PantsChubbyButt" target="Pants" local="true">A_KyneLeatherF.osd\PantsChubbyButt</Data>
+            <Data name="robesChubbyButt" target="robes" local="true">A_KyneLeatherF.osd\robesChubbyButt</Data>
         </Slider>
         <Slider name="ChubbyLegs" invert="false" small="0" big="0">
             <Data name="CBBEChubbyLegs" target="CBBE" local="true">A_KyneLeatherF.osd\CBBEChubbyLegs</Data>
@@ -1008,6 +1030,7 @@
             <Data name="PantsChubbyLegs" target="Pants" local="true">A_KyneLeatherF.osd\PantsChubbyLegs</Data>
             <Data name="ScbChubbyLegs" target="Scb" local="true">A_KyneLeatherF.osd\ScbChubbyLegs</Data>
             <Data name="IronDagger:0ChubbyLegs" target="IronDagger:0" local="true">A_KyneLeatherF.osd\IronDagger:0ChubbyLegs</Data>
+            <Data name="robesChubbyLegs" target="robes" local="true">A_KyneLeatherF.osd\robesChubbyLegs</Data>
         </Slider>
         <Slider name="ChubbyWaist" invert="false" small="0" big="0">
             <Data name="CBBEChubbyWaist" target="CBBE" local="true">A_KyneLeatherF.osd\CBBEChubbyWaist</Data>
@@ -1018,6 +1041,7 @@
             <Data name="PantsChubbyWaist" target="Pants" local="true">A_KyneLeatherF.osd\PantsChubbyWaist</Data>
             <Data name="ScbChubbyWaist" target="Scb" local="true">A_KyneLeatherF.osd\ScbChubbyWaist</Data>
             <Data name="IronDagger:0ChubbyWaist" target="IronDagger:0" local="true">A_KyneLeatherF.osd\IronDagger:0ChubbyWaist</Data>
+            <Data name="robesChubbyWaist" target="robes" local="true">A_KyneLeatherF.osd\robesChubbyWaist</Data>
         </Slider>
         <Slider name="CrotchBack" invert="false" small="0" big="0">
             <Data name="CBBECrotchBack" target="CBBE" local="true">A_KyneLeatherF.osd\CBBECrotchBack</Data>
@@ -1025,6 +1049,7 @@
             <Data name="PocketAndSleevesCrotchBack" target="PocketAndSleeves" local="true">A_KyneLeatherF.osd\PocketAndSleevesCrotchBack</Data>
             <Data name="HideBustierCrotchBack" target="HideBustier" local="true">A_KyneLeatherF.osd\HideBustierCrotchBack</Data>
             <Data name="PantsCrotchBack" target="Pants" local="true">A_KyneLeatherF.osd\PantsCrotchBack</Data>
+            <Data name="robesCrotchBack" target="robes" local="true">A_KyneLeatherF.osd\robesCrotchBack</Data>
         </Slider>
         <Slider name="DoubleMelon" invert="false" small="0" big="0">
             <Data name="CBBEDoubleMelon" target="CBBE" local="true">A_KyneLeatherF.osd\CBBEDoubleMelon</Data>
@@ -1044,6 +1069,7 @@
             <Data name="PocketAndSleevesGroin" target="PocketAndSleeves" local="true">A_KyneLeatherF.osd\PocketAndSleevesGroin</Data>
             <Data name="HideBustierGroin" target="HideBustier" local="true">A_KyneLeatherF.osd\HideBustierGroin</Data>
             <Data name="PantsGroin" target="Pants" local="true">A_KyneLeatherF.osd\PantsGroin</Data>
+            <Data name="robesGroin" target="robes" local="true">A_KyneLeatherF.osd\robesGroin</Data>
         </Slider>
         <Slider name="HipBone" invert="false" small="0" big="0">
             <Data name="CBBEHipbone" target="CBBE" local="true">A_KyneLeatherF.osd\CBBEHipbone</Data>
@@ -1051,6 +1077,7 @@
             <Data name="PocketAndSleevesHipBone" target="PocketAndSleeves" local="true">A_KyneLeatherF.osd\PocketAndSleevesHipBone</Data>
             <Data name="HideBustierHipBone" target="HideBustier" local="true">A_KyneLeatherF.osd\HideBustierHipBone</Data>
             <Data name="PantsHipBone" target="Pants" local="true">A_KyneLeatherF.osd\PantsHipBone</Data>
+            <Data name="robesHipBone" target="robes" local="true">A_KyneLeatherF.osd\robesHipBone</Data>
         </Slider>
         <Slider name="HipForward" invert="false" small="0" big="0">
             <Data name="CBBEHipForward" target="CBBE" local="true">A_KyneLeatherF.osd\CBBEHipForward</Data>
@@ -1061,6 +1088,7 @@
             <Data name="PantsHipForward" target="Pants" local="true">A_KyneLeatherF.osd\PantsHipForward</Data>
             <Data name="ScbHipForward" target="Scb" local="true">A_KyneLeatherF.osd\ScbHipForward</Data>
             <Data name="IronDagger:0HipForward" target="IronDagger:0" local="true">A_KyneLeatherF.osd\IronDagger:0HipForward</Data>
+            <Data name="robesHipForward" target="robes" local="true">A_KyneLeatherF.osd\robesHipForward</Data>
         </Slider>
         <Slider name="Hips" invert="false" small="0" big="0">
             <Data name="CBBEHips" target="CBBE" local="true">A_KyneLeatherF.osd\CBBEHips</Data>
@@ -1070,6 +1098,7 @@
             <Data name="PantsHips" target="Pants" local="true">A_KyneLeatherF.osd\PantsHips</Data>
             <Data name="ScbHips" target="Scb" local="true">A_KyneLeatherF.osd\ScbHips</Data>
             <Data name="IronDagger:0Hips" target="IronDagger:0" local="true">A_KyneLeatherF.osd\IronDagger:0Hips</Data>
+            <Data name="robesHips" target="robes" local="true">A_KyneLeatherF.osd\robesHips</Data>
         </Slider>
         <Slider name="HipUpperWidth" invert="false" small="0" big="0">
             <Data name="CBBEHipUpperWidth" target="CBBE" local="true">A_KyneLeatherF.osd\CBBEHipUpperWidth</Data>
@@ -1079,26 +1108,28 @@
             <Data name="PantsHipUpperWidth" target="Pants" local="true">A_KyneLeatherF.osd\PantsHipUpperWidth</Data>
             <Data name="ScbHipUpperWidth" target="Scb" local="true">A_KyneLeatherF.osd\ScbHipUpperWidth</Data>
             <Data name="IronDagger:0HipUpperWidth" target="IronDagger:0" local="true">A_KyneLeatherF.osd\IronDagger:0HipUpperWidth</Data>
+            <Data name="robesHipUpperWidth" target="robes" local="true">A_KyneLeatherF.osd\robesHipUpperWidth</Data>
         </Slider>
         <Slider name="KneeHeight" invert="false" small="0" big="0">
             <Data name="CBBEKneeHeight" target="CBBE" local="true">A_KyneLeatherF.osd\CBBEKneeHeight</Data>
-            <Data name="clothesKneeHeight" target="clothes" local="true">A_KyneLeatherF.osd\clothesKneeHeight</Data>
             <Data name="PantsKneeHeight" target="Pants" local="true">A_KyneLeatherF.osd\PantsKneeHeight</Data>
+            <Data name="robesKneeHeight" target="robes" local="true">A_KyneLeatherF.osd\robesKneeHeight</Data>
         </Slider>
         <Slider name="KneeShape" invert="false" small="0" big="0">
             <Data name="CBBEKneeShape" target="CBBE" local="true">A_KyneLeatherF.osd\CBBEKneeShape</Data>
             <Data name="PantsKneeShape" target="Pants" local="true">A_KyneLeatherF.osd\PantsKneeShape</Data>
+            <Data name="robesKneeShape" target="robes" local="true">A_KyneLeatherF.osd\robesKneeShape</Data>
         </Slider>
         <Slider name="LegShapeClassic" invert="false" small="0" big="0">
             <Data name="CBBELegShapeClassic" target="CBBE" local="true">A_KyneLeatherF.osd\CBBELegShapeClassic</Data>
-            <Data name="clothesLegShapeClassic" target="clothes" local="true">A_KyneLeatherF.osd\clothesLegShapeClassic</Data>
             <Data name="PantsLegShapeClassic" target="Pants" local="true">A_KyneLeatherF.osd\PantsLegShapeClassic</Data>
+            <Data name="robesLegShapeClassic" target="robes" local="true">A_KyneLeatherF.osd\robesLegShapeClassic</Data>
         </Slider>
         <Slider name="LegsThin" invert="false" small="0" big="0">
             <Data name="CBBELegsThin" target="CBBE" local="true">A_KyneLeatherF.osd\CBBELegsThin</Data>
-            <Data name="clothesLegsThin" target="clothes" local="true">A_KyneLeatherF.osd\clothesLegsThin</Data>
             <Data name="PocketAndSleevesLegsThin" target="PocketAndSleeves" local="true">A_KyneLeatherF.osd\PocketAndSleevesLegsThin</Data>
             <Data name="PantsLegsThin" target="Pants" local="true">A_KyneLeatherF.osd\PantsLegsThin</Data>
+            <Data name="robesLegsThin" target="robes" local="true">A_KyneLeatherF.osd\robesLegsThin</Data>
         </Slider>
         <Slider name="MuscleAbs" invert="false" small="0" big="0">
             <Data name="CBBEMuscleAbs" target="CBBE" local="true">A_KyneLeatherF.osd\CBBEMuscleAbs</Data>
@@ -1106,6 +1137,7 @@
             <Data name="PocketAndSleevesMuscleAbs" target="PocketAndSleeves" local="true">A_KyneLeatherF.osd\PocketAndSleevesMuscleAbs</Data>
             <Data name="HideBustierMuscleAbs" target="HideBustier" local="true">A_KyneLeatherF.osd\HideBustierMuscleAbs</Data>
             <Data name="PantsMuscleAbs" target="Pants" local="true">A_KyneLeatherF.osd\PantsMuscleAbs</Data>
+            <Data name="robesMuscleAbs" target="robes" local="true">A_KyneLeatherF.osd\robesMuscleAbs</Data>
         </Slider>
         <Slider name="MuscleArms" invert="false" small="0" big="0">
             <Data name="CBBEMuscleArms" target="CBBE" local="true">A_KyneLeatherF.osd\CBBEMuscleArms</Data>
@@ -1120,12 +1152,13 @@
             <Data name="clothesMuscleButt" target="clothes" local="true">A_KyneLeatherF.osd\clothesMuscleButt</Data>
             <Data name="PocketAndSleevesMuscleButt" target="PocketAndSleeves" local="true">A_KyneLeatherF.osd\PocketAndSleevesMuscleButt</Data>
             <Data name="PantsMuscleButt" target="Pants" local="true">A_KyneLeatherF.osd\PantsMuscleButt</Data>
+            <Data name="robesMuscleButt" target="robes" local="true">A_KyneLeatherF.osd\robesMuscleButt</Data>
         </Slider>
         <Slider name="MuscleLegs" invert="false" small="0" big="0">
             <Data name="CBBEMuscleLegs" target="CBBE" local="true">A_KyneLeatherF.osd\CBBEMuscleLegs</Data>
-            <Data name="clothesMuscleLegs" target="clothes" local="true">A_KyneLeatherF.osd\clothesMuscleLegs</Data>
             <Data name="PocketAndSleevesMuscleLegs" target="PocketAndSleeves" local="true">A_KyneLeatherF.osd\PocketAndSleevesMuscleLegs</Data>
             <Data name="PantsMuscleLegs" target="Pants" local="true">A_KyneLeatherF.osd\PantsMuscleLegs</Data>
+            <Data name="robesMuscleLegs" target="robes" local="true">A_KyneLeatherF.osd\robesMuscleLegs</Data>
         </Slider>
         <Slider name="MusclePecs" invert="false" small="0" big="0">
             <Data name="CBBEMusclePecs" target="CBBE" local="true">A_KyneLeatherF.osd\CBBEMusclePecs</Data>
@@ -1219,6 +1252,7 @@
             <Data name="PocketAndSleevesPregnancyBelly" target="PocketAndSleeves" local="true">A_KyneLeatherF.osd\PocketAndSleevesPregnancyBelly</Data>
             <Data name="HideBustierPregnancyBelly" target="HideBustier" local="true">A_KyneLeatherF.osd\HideBustierPregnancyBelly</Data>
             <Data name="PantsPregnancyBelly" target="Pants" local="true">A_KyneLeatherF.osd\PantsPregnancyBelly</Data>
+            <Data name="robesPregnancyBelly" target="robes" local="true">A_KyneLeatherF.osd\robesPregnancyBelly</Data>
         </Slider>
         <Slider name="PushUp" invert="false" small="0" big="0">
             <Data name="CBBEPushUp" target="CBBE" local="true">A_KyneLeatherF.osd\CBBEPushUp</Data>
@@ -1242,6 +1276,7 @@
             <Data name="PocketAndSleevesRoundAss" target="PocketAndSleeves" local="true">A_KyneLeatherF.osd\PocketAndSleevesRoundAss</Data>
             <Data name="HideBustierRoundAss" target="HideBustier" local="true">A_KyneLeatherF.osd\HideBustierRoundAss</Data>
             <Data name="PantsRoundAss" target="Pants" local="true">A_KyneLeatherF.osd\PantsRoundAss</Data>
+            <Data name="robesRoundAss" target="robes" local="true">A_KyneLeatherF.osd\robesRoundAss</Data>
         </Slider>
         <Slider name="ShoulderSmooth" invert="false" small="0" big="0">
             <Data name="CBBEShoulderSmooth" target="CBBE" local="true">A_KyneLeatherF.osd\CBBEShoulderSmooth</Data>
@@ -1266,6 +1301,7 @@
             <Data name="PocketAndSleevesShoulderWidth" target="PocketAndSleeves" local="true">A_KyneLeatherF.osd\PocketAndSleevesShoulderWidth</Data>
             <Data name="HideBustierShoulderWidth" target="HideBustier" local="true">A_KyneLeatherF.osd\HideBustierShoulderWidth</Data>
             <Data name="PantsShoulderWidth" target="Pants" local="true">A_KyneLeatherF.osd\PantsShoulderWidth</Data>
+            <Data name="robesShoulderWidth" target="robes" local="true">A_KyneLeatherF.osd\robesShoulderWidth</Data>
         </Slider>
         <Slider name="SlimThighs" invert="false" small="0" big="0">
             <Data name="CBBESlimThighs" target="CBBE" local="true">A_KyneLeatherF.osd\CBBESlimThighs</Data>
@@ -1273,6 +1309,7 @@
             <Data name="PocketAndSleevesSlimThighs" target="PocketAndSleeves" local="true">A_KyneLeatherF.osd\PocketAndSleevesSlimThighs</Data>
             <Data name="HideBustierSlimThighs" target="HideBustier" local="true">A_KyneLeatherF.osd\HideBustierSlimThighs</Data>
             <Data name="PantsSlimThighs" target="Pants" local="true">A_KyneLeatherF.osd\PantsSlimThighs</Data>
+            <Data name="robesSlimThighs" target="robes" local="true">A_KyneLeatherF.osd\robesSlimThighs</Data>
         </Slider>
         <Slider name="SternumDepth" invert="false" small="0" big="0">
             <Data name="CBBESternumDepth" target="CBBE" local="true">A_KyneLeatherF.osd\CBBESternumDepth</Data>
@@ -1282,12 +1319,13 @@
             <Data name="CBBESternumHeight" target="CBBE" local="true">A_KyneLeatherF.osd\CBBESternumHeight</Data>
             <Data name="PocketAndSleevesSternumHeight" target="PocketAndSleeves" local="true">A_KyneLeatherF.osd\PocketAndSleevesSternumHeight</Data>
             <Data name="PantsSternumHeight" target="Pants" local="true">A_KyneLeatherF.osd\PantsSternumHeight</Data>
+            <Data name="robesSternumHeight" target="robes" local="true">A_KyneLeatherF.osd\robesSternumHeight</Data>
         </Slider>
         <Slider name="Thighs" invert="false" small="0" big="0">
             <Data name="CBBEThighs" target="CBBE" local="true">A_KyneLeatherF.osd\CBBEThighs</Data>
-            <Data name="clothesThighs" target="clothes" local="true">A_KyneLeatherF.osd\clothesThighs</Data>
             <Data name="PocketAndSleevesThighs" target="PocketAndSleeves" local="true">A_KyneLeatherF.osd\PocketAndSleevesThighs</Data>
             <Data name="PantsThighs" target="Pants" local="true">A_KyneLeatherF.osd\PantsThighs</Data>
+            <Data name="robesThighs" target="robes" local="true">A_KyneLeatherF.osd\robesThighs</Data>
         </Slider>
         <Slider name="TummyTuck" invert="false" small="0" big="0">
             <Data name="CBBETummyTuck" target="CBBE" local="true">A_KyneLeatherF.osd\CBBETummyTuck</Data>
@@ -1295,6 +1333,7 @@
             <Data name="PocketAndSleevesTummyTuck" target="PocketAndSleeves" local="true">A_KyneLeatherF.osd\PocketAndSleevesTummyTuck</Data>
             <Data name="HideBustierTummyTuck" target="HideBustier" local="true">A_KyneLeatherF.osd\HideBustierTummyTuck</Data>
             <Data name="PantsTummyTuck" target="Pants" local="true">A_KyneLeatherF.osd\PantsTummyTuck</Data>
+            <Data name="robesTummyTuck" target="robes" local="true">A_KyneLeatherF.osd\robesTummyTuck</Data>
         </Slider>
         <Slider name="Waist" invert="false" small="0" big="0">
             <Data name="CBBEwaist" target="CBBE" local="true">A_KyneLeatherF.osd\CBBEwaist</Data>
@@ -1303,6 +1342,7 @@
             <Data name="PocketAndSleevesWaist" target="PocketAndSleeves" local="true">A_KyneLeatherF.osd\PocketAndSleevesWaist</Data>
             <Data name="HideBustierWaist" target="HideBustier" local="true">A_KyneLeatherF.osd\HideBustierWaist</Data>
             <Data name="PantsWaist" target="Pants" local="true">A_KyneLeatherF.osd\PantsWaist</Data>
+            <Data name="robesWaist" target="robes" local="true">A_KyneLeatherF.osd\robesWaist</Data>
         </Slider>
         <Slider name="WaistHeight" invert="false" small="0" big="0">
             <Data name="CBBEWaistHeight" target="CBBE" local="true">A_KyneLeatherF.osd\CBBEWaistHeight</Data>
@@ -1311,6 +1351,7 @@
             <Data name="PocketAndSleevesWaistHeight" target="PocketAndSleeves" local="true">A_KyneLeatherF.osd\PocketAndSleevesWaistHeight</Data>
             <Data name="HideBustierWaistHeight" target="HideBustier" local="true">A_KyneLeatherF.osd\HideBustierWaistHeight</Data>
             <Data name="PantsWaistHeight" target="Pants" local="true">A_KyneLeatherF.osd\PantsWaistHeight</Data>
+            <Data name="robesWaistHeight" target="robes" local="true">A_KyneLeatherF.osd\robesWaistHeight</Data>
         </Slider>
         <Slider name="WideWaistLine" invert="false" small="0" big="0">
             <Data name="CBBEWideWaistLine" target="CBBE" local="true">A_KyneLeatherF.osd\CBBEWideWaistLine</Data>
@@ -1319,6 +1360,7 @@
             <Data name="PocketAndSleevesWideWaistLine" target="PocketAndSleeves" local="true">A_KyneLeatherF.osd\PocketAndSleevesWideWaistLine</Data>
             <Data name="HideBustierWideWaistLine" target="HideBustier" local="true">A_KyneLeatherF.osd\HideBustierWideWaistLine</Data>
             <Data name="PantsWideWaistLine" target="Pants" local="true">A_KyneLeatherF.osd\PantsWideWaistLine</Data>
+            <Data name="robesWideWaistLine" target="robes" local="true">A_KyneLeatherF.osd\robesWideWaistLine</Data>
         </Slider>
         <Slider name="WristSize" invert="false" small="100" big="0">
             <Data name="CBBEWristSize" target="CBBE" local="true">A_KyneLeatherF.osd\CBBEWristSize</Data>
@@ -1331,6 +1373,7 @@
             <Data name="Pants7B Lower" target="Pants" local="true">A_KyneLeatherF.osd\Pants7B Lower</Data>
             <Data name="Scb7B Lower" target="Scb" local="true">A_KyneLeatherF.osd\Scb7B Lower</Data>
             <Data name="IronDagger:07B Lower" target="IronDagger:0" local="true">A_KyneLeatherF.osd\IronDagger:07B Lower</Data>
+            <Data name="robes7B Lower" target="robes" local="true">A_KyneLeatherF.osd\robes7B Lower</Data>
         </Slider>
         <Slider name="7B Upper" invert="false" small="0" big="0">
             <Data name="CBBE7B Upper" target="CBBE" local="true">A_KyneLeatherF.osd\CBBE7B Upper</Data>
@@ -1339,6 +1382,7 @@
             <Data name="PocketAndSleeves7B Upper" target="PocketAndSleeves" local="true">A_KyneLeatherF.osd\PocketAndSleeves7B Upper</Data>
             <Data name="HideBustier7B Upper" target="HideBustier" local="true">A_KyneLeatherF.osd\HideBustier7B Upper</Data>
             <Data name="Pants7B Upper" target="Pants" local="true">A_KyneLeatherF.osd\Pants7B Upper</Data>
+            <Data name="robes7B Upper" target="robes" local="true">A_KyneLeatherF.osd\robes7B Upper</Data>
         </Slider>
         <Slider name="VanillaSSEHi" invert="false" small="0" big="0">
             <Data name="CBBEVanillaSSEHi" target="CBBE" local="true">A_KyneLeatherF.osd\CBBEVanillaSSEHi</Data>
@@ -1347,6 +1391,7 @@
             <Data name="PocketAndSleevesVanillaSSEHi" target="PocketAndSleeves" local="true">A_KyneLeatherF.osd\PocketAndSleevesVanillaSSEHi</Data>
             <Data name="HideBustierVanillaSSEHi" target="HideBustier" local="true">A_KyneLeatherF.osd\HideBustierVanillaSSEHi</Data>
             <Data name="PantsVanillaSSEHi" target="Pants" local="true">A_KyneLeatherF.osd\PantsVanillaSSEHi</Data>
+            <Data name="robesVanillaSSEHi" target="robes" local="true">A_KyneLeatherF.osd\robesVanillaSSEHi</Data>
         </Slider>
         <Slider name="VanillaSSELo" invert="false" small="0" big="0">
             <Data name="CBBEVanillaSSELo" target="CBBE" local="true">A_KyneLeatherF.osd\CBBEVanillaSSELo</Data>
@@ -1355,6 +1400,7 @@
             <Data name="PocketAndSleevesVanillaSSELo" target="PocketAndSleeves" local="true">A_KyneLeatherF.osd\PocketAndSleevesVanillaSSELo</Data>
             <Data name="HideBustierVanillaSSELo" target="HideBustier" local="true">A_KyneLeatherF.osd\HideBustierVanillaSSELo</Data>
             <Data name="PantsVanillaSSELo" target="Pants" local="true">A_KyneLeatherF.osd\PantsVanillaSSELo</Data>
+            <Data name="robesVanillaSSELo" target="robes" local="true">A_KyneLeatherF.osd\robesVanillaSSELo</Data>
         </Slider>
         <Slider name="OldBaseShape" invert="false" small="0" big="0">
             <Data name="CBBEOldBaseShape" target="CBBE" local="true">A_KyneLeatherF.osd\CBBEOldBaseShape</Data>
@@ -1363,32 +1409,39 @@
             <Data name="PocketAndSleevesOldBaseShape" target="PocketAndSleeves" local="true">A_KyneLeatherF.osd\PocketAndSleevesOldBaseShape</Data>
             <Data name="HideBustierOldBaseShape" target="HideBustier" local="true">A_KyneLeatherF.osd\HideBustierOldBaseShape</Data>
             <Data name="PantsOldBaseShape" target="Pants" local="true">A_KyneLeatherF.osd\PantsOldBaseShape</Data>
+            <Data name="robesOldBaseShape" target="robes" local="true">A_KyneLeatherF.osd\robesOldBaseShape</Data>
         </Slider>
         <Slider name="BreastSideShape" invert="false" small="0" big="0">
             <Data name="CBBEBreastSideShape" target="CBBE" local="true">A_KyneLeatherF.osd\CBBEBreastSideShape</Data>
             <Data name="PocketAndSleevesBreastSideShape" target="PocketAndSleeves" local="true">A_KyneLeatherF.osd\PocketAndSleevesBreastSideShape</Data>
             <Data name="PantsBreastSideShape" target="Pants" local="true">A_KyneLeatherF.osd\PantsBreastSideShape</Data>
+            <Data name="robesBreastSideShape" target="robes" local="true">A_KyneLeatherF.osd\robesBreastSideShape</Data>
         </Slider>
         <Slider name="BreastUnderDepth" invert="false" small="0" big="0">
             <Data name="CBBEBreastUnderDepth" target="CBBE" local="true">A_KyneLeatherF.osd\CBBEBreastUnderDepth</Data>
             <Data name="PantsBreastUnderDepth" target="Pants" local="true">A_KyneLeatherF.osd\PantsBreastUnderDepth</Data>
+            <Data name="robesBreastUnderDepth" target="robes" local="true">A_KyneLeatherF.osd\robesBreastUnderDepth</Data>
         </Slider>
         <Slider name="ButtDimples" invert="false" small="0" big="0">
             <Data name="CBBEButtDimples" target="CBBE" local="true">A_KyneLeatherF.osd\CBBEButtDimples</Data>
             <Data name="PocketAndSleevesButtDimples" target="PocketAndSleeves" local="true">A_KyneLeatherF.osd\PocketAndSleevesButtDimples</Data>
+            <Data name="robesButtDimples" target="robes" local="true">A_KyneLeatherF.osd\robesButtDimples</Data>
         </Slider>
         <Slider name="ButtUnderFold" invert="false" small="0" big="0">
             <Data name="CBBEButtUnderFold" target="CBBE" local="true">A_KyneLeatherF.osd\CBBEButtUnderFold</Data>
             <Data name="PantsButtUnderFold" target="Pants" local="true">A_KyneLeatherF.osd\PantsButtUnderFold</Data>
+            <Data name="robesButtUnderFold" target="robes" local="true">A_KyneLeatherF.osd\robesButtUnderFold</Data>
         </Slider>
         <Slider name="HipCarved" invert="false" small="0" big="0">
             <Data name="CBBEHipCarved" target="CBBE" local="true">A_KyneLeatherF.osd\CBBEHipCarved</Data>
             <Data name="PocketAndSleevesHipCarved" target="PocketAndSleeves" local="true">A_KyneLeatherF.osd\PocketAndSleevesHipCarved</Data>
             <Data name="PantsHipCarved" target="Pants" local="true">A_KyneLeatherF.osd\PantsHipCarved</Data>
+            <Data name="robesHipCarved" target="robes" local="true">A_KyneLeatherF.osd\robesHipCarved</Data>
         </Slider>
         <Slider name="NavelEven" invert="false" small="0" big="0">
             <Data name="CBBENavelEven" target="CBBE" local="true">A_KyneLeatherF.osd\CBBENavelEven</Data>
             <Data name="PantsNavelEven" target="Pants" local="true">A_KyneLeatherF.osd\PantsNavelEven</Data>
+            <Data name="robesNavelEven" target="robes" local="true">A_KyneLeatherF.osd\robesNavelEven</Data>
         </Slider>
         <Slider name="NippleDip" invert="false" small="0" big="0">
             <Data name="CBBENippleDip" target="CBBE" local="true">A_KyneLeatherF.osd\CBBENippleDip</Data>
@@ -4018,6 +4071,44 @@
         <Slider name="OldBaseShape" invert="false" small="0" big="0">
             <Data name="BootsOldBaseShape" target="Boots" local="true">B_KyneLeatherF.osd\BootsOldBaseShape</Data>
             <Data name="BootsFrontOldBaseShape" target="BootsFront" local="true">B_KyneLeatherF.osd\BootsFrontOldBaseShape</Data>
+        </Slider>
+    </SliderSet>
+    <SliderSet name="Saltwitch - Kyne Leather Gauntlets Beasts">
+        <DataFolder>Saltwitch Garbs</DataFolder>
+        <SourceFile>G_KyneLeatherBeastsF.nif</SourceFile>
+        <OutputPath>meshes\Tinuvia\Saltwitch Garbs</OutputPath>
+        <OutputFile GenWeights="true">G_KyneLeatherBeastsF</OutputFile>
+        <Shape target="Gauntlets">Gauntlets</Shape>
+        <Shape target="Hands" DataFolder="CBBE">Hands</Shape>
+        <Slider name="Arms" invert="false" small="0" big="0">
+            <Data name="GauntletsArms" target="Gauntlets" local="true">G_KyneLeatherBeastsF.osd\GauntletsArms</Data>
+        </Slider>
+        <Slider name="BigTorso" invert="false" small="0" big="0">
+            <Data name="GauntletsBigTorso" target="Gauntlets" local="true">G_KyneLeatherBeastsF.osd\GauntletsBigTorso</Data>
+        </Slider>
+        <Slider name="ChubbyArms" invert="false" small="0" big="0">
+            <Data name="GauntletsChubbyArms" target="Gauntlets" local="true">G_KyneLeatherBeastsF.osd\GauntletsChubbyArms</Data>
+        </Slider>
+        <Slider name="ForearmSize" invert="false" small="0" big="0">
+            <Data name="GauntletsForearmSize" target="Gauntlets" local="true">G_KyneLeatherBeastsF.osd\GauntletsForearmSize</Data>
+        </Slider>
+        <Slider name="MuscleArms" invert="false" small="0" big="0">
+            <Data name="GauntletsMuscleArms" target="Gauntlets" local="true">G_KyneLeatherBeastsF.osd\GauntletsMuscleArms</Data>
+        </Slider>
+        <Slider name="ShoulderWidth" invert="false" small="0" big="0">
+            <Data name="GauntletsShoulderWidth" target="Gauntlets" local="true">G_KyneLeatherBeastsF.osd\GauntletsShoulderWidth</Data>
+        </Slider>
+        <Slider name="WristSize" invert="false" small="100" big="0">
+            <Data name="GauntletsWristSize" target="Gauntlets" local="true">G_KyneLeatherBeastsF.osd\GauntletsWristSize</Data>
+        </Slider>
+        <Slider name="7B Upper" invert="false" small="0" big="0">
+            <Data name="Gauntlets7B Upper" target="Gauntlets" local="true">G_KyneLeatherBeastsF.osd\Gauntlets7B Upper</Data>
+        </Slider>
+        <Slider name="VanillaSSEHi" invert="false" small="0" big="0">
+            <Data name="GauntletsVanillaSSEHi" target="Gauntlets" local="true">G_KyneLeatherBeastsF.osd\GauntletsVanillaSSEHi</Data>
+        </Slider>
+        <Slider name="VanillaSSELo" invert="false" small="0" big="0">
+            <Data name="GauntletsVanillaSSELo" target="Gauntlets" local="true">G_KyneLeatherBeastsF.osd\GauntletsVanillaSSELo</Data>
         </Slider>
     </SliderSet>
 </SliderSetInfo>

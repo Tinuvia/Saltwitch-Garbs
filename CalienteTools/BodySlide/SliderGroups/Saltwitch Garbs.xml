@@ -13,14 +13,12 @@
         <Member name="Saltwitch - Kyne Rugged Boots"/>
         <Member name="Saltwitch - Kyne Rugged Gauntlets"/>
         <Member name="Saltwitch - Kyne Rugged Gauntlets Beast"/>
-        <Member name="Saltwitch - MALE Kyne Rugged"/>
-        <Member name="Saltwitch - MALE Kyne Rugged Boots"/>
-        <Member name="Saltwitch - MALE Kyne Rugged Gauntlets"/>
-        <Member name="Saltwitch - MALE Kyne Rugged Gauntlets Beast"/>
         <Member name="Saltwitch - Kyne Hide Boots Fur"/>
         <Member name="Saltwitch - Kyne Hide Gauntlets Fur"/>
         <Member name="Saltwitch - Kyne Hide Gauntlets Fur Beasts"/>
         <Member name="Saltwitch - Temple Chain Mail"/>
+        <Member name="Saltwitch - Kyne Leather Boots"/>
+        <Member name="Saltwitch - Kyne Leather Gauntlets Beasts"/>
     </Group>
     <Group name="Saltwitch">
         <Member name="Saltwitch - Boethiah Cloth Scarf"/>
@@ -35,13 +33,11 @@
         <Member name="Saltwitch - Kyne Rugged Boots"/>
         <Member name="Saltwitch - Kyne Rugged Gauntlets"/>
         <Member name="Saltwitch - Kyne Rugged Gauntlets Beast"/>
-        <Member name="Saltwitch - MALE Kyne Rugged"/>
-        <Member name="Saltwitch - MALE Kyne Rugged Boots"/>
-        <Member name="Saltwitch - MALE Kyne Rugged Gauntlets"/>
-        <Member name="Saltwitch - MALE Kyne Rugged Gauntlets Beast"/>
         <Member name="Saltwitch - Kyne Hide Boots Fur"/>
         <Member name="Saltwitch - Kyne Hide Gauntlets Fur"/>
         <Member name="Saltwitch - Kyne Hide Gauntlets Fur Beasts"/>
         <Member name="Saltwitch - Temple Chain Mail"/>
+        <Member name="Saltwitch - Kyne Leather Boots"/>
+        <Member name="Saltwitch - Kyne Leather Gauntlets Beasts"/>
     </Group>
 </SliderGroups>
