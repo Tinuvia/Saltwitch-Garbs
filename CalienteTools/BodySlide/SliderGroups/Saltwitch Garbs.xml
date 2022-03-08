@@ -19,6 +19,17 @@
         <Member name="Saltwitch - Temple Chain Mail"/>
         <Member name="Saltwitch - Kyne Leather Boots"/>
         <Member name="Saltwitch - Kyne Leather Gauntlets Beasts"/>
+        <Member name="Saltwitch - Doom Chain Mail"/>
+        <Member name="Saltwitch - Dwemer Robe"/>
+        <Member name="Saltwitch - Dwemer Skirt"/>
+        <Member name="Saltwitch - Kyne Hide Cuirass"/>
+        <Member name="Saltwitch - Kyne Leather Cuirass"/>
+        <Member name="Saltwitch - Kyne Leather Gauntlets"/>
+        <Member name="Saltwitch - Kyne Legacy Boots"/>
+        <Member name="Saltwitch - Kyne Legacy Cuirass"/>
+        <Member name="Saltwitch - Kyne Legacy Gauntlets"/>
+        <Member name="Saltwitch - Kyne Legacy Gauntlets Beasts"/>
+        <Member name="Saltwitch - Kyne Rugged Cuirass"/>
     </Group>
     <Group name="Saltwitch">
         <Member name="Saltwitch - Boethiah Cloth Scarf"/>
@@ -39,5 +50,16 @@
         <Member name="Saltwitch - Temple Chain Mail"/>
         <Member name="Saltwitch - Kyne Leather Boots"/>
         <Member name="Saltwitch - Kyne Leather Gauntlets Beasts"/>
+        <Member name="Saltwitch - Doom Chain Mail"/>
+        <Member name="Saltwitch - Dwemer Robe"/>
+        <Member name="Saltwitch - Dwemer Skirt"/>
+        <Member name="Saltwitch - Kyne Hide Cuirass"/>
+        <Member name="Saltwitch - Kyne Leather Cuirass"/>
+        <Member name="Saltwitch - Kyne Leather Gauntlets"/>
+        <Member name="Saltwitch - Kyne Legacy Boots"/>
+        <Member name="Saltwitch - Kyne Legacy Cuirass"/>
+        <Member name="Saltwitch - Kyne Legacy Gauntlets"/>
+        <Member name="Saltwitch - Kyne Legacy Gauntlets Beasts"/>
+        <Member name="Saltwitch - Kyne Rugged Cuirass"/>
     </Group>
 </SliderGroups>
