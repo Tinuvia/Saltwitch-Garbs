@@ -4176,6 +4176,9 @@
         <Slider name="VanillaSSELo" invert="false" small="0" big="0">
             <Data name="Gauntlets_2VanillaSSELo" target="Gauntlets_2" local="true">G_KyneLeatherF.osd\Gauntlets_2VanillaSSELo</Data>
         </Slider>
+        <Slider name="BodyZap" invert="false" small="100" big="100" hidden="true" zap="true">
+            <Data name="HandsBodyZap" target="Hands" local="true">G_KyneLeatherF.osd\HandsBodyZap</Data>
+        </Slider>
     </SliderSet>
     <SliderSet name="Saltwitch - Kyne Legacy Cuirass">
         <DataFolder>Saltwitch Garbs</DataFolder>
